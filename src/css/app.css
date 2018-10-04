@@ -1,0 +1,13 @@
+.logo {
+    width: 120px;
+    height: 39px;
+    background: #ddd url('../images/logo.png');
+    border-radius: 6px;
+    margin: 16px 24px 16px 0;
+    float: left;
+    background-size: cover;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+}
